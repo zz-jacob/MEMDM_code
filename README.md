@@ -1,2 +1,2 @@
-# MEMDM_code
-Code for memory-augmented dialogue management.
+# MEMDM
+This is a memory based neural network model for dialog management.

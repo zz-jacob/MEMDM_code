@@ -1,0 +1,15 @@
+api_call	query
+ok let me look	look_for
+great let me do	book
+here it is	inform
+you're welcome	welcome
+any preference	ask_cuisine
+what do you thi	result
+which price ran	ask_price
+is there anything	any_help
+how many people	ask_people
+i'm on it	ok
+where should it	ask_location
+hello what can	hello
+sure is there anything else	any_else
+sure let me fin	find_another
